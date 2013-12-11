@@ -11,6 +11,7 @@
     "coffee-script": "*",
     "sequelize": "~2.0.0-beta.2",
     "mysql": "~2.0.0-rc2",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "async": "~0.2.9"
   }
 }
